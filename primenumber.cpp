@@ -5,7 +5,7 @@ int main()
 	int i = 2, j = 0;
 	int num;
 	int n = 0;
-	printf("출력할 소수의 개수 : ");
+	printf("출력할 소수의 개수? : ");
 	scanf_s("%d", &num);
 	printf("\n");
 
